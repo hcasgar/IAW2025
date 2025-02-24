@@ -1,2 +1,2 @@
 # IAW2025
-Repositorio con el código desarrollado en el módulo de IAW 24/25
+Repositorio con el codigo desarrollado en el modulo de IAW 24/25
